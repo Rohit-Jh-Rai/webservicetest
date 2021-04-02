@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../webservicetest2/producing-web-service.iml" filepath="$PROJECT_DIR$/../webservicetest2/producing-web-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../webservicetest3/spring-soap-webservice.iml" filepath="$PROJECT_DIR$/../webservicetest3/spring-soap-webservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webservicetest1.iml" filepath="$PROJECT_DIR$/webservicetest1.iml" />
+    </modules>
+  </component>
+</project>

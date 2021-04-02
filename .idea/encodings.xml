@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../webservicetest2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../webservicetest3" charset="UTF-8" />
+    <file url="file://C:/esb/applicaties/hwn-tt-soap-adapter-app/tags/hwn-tt-soap-adapter-app-1.0.3" charset="UTF-8" />
+    <file url="file://C:/esb/interfaces/hwn-trackandtrace-schema/tags/hwn-trackandtrace-schema-1.0.1" charset="UTF-8" />
+  </component>
+</project>
